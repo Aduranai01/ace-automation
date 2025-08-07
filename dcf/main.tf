@@ -4,6 +4,7 @@ locals {
     "*.amazonaws.com",
     "cloud.google.com",
     "*.microsoft.com"
+    # random
   ]
 }
 
