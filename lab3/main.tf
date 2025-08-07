@@ -4,6 +4,7 @@ data "terraform_remote_state" "lab1" {
     organization = "aziz-aviatrix-lab"
     workspaces = {
       name = "ace-automation-lab1"
+      #random comment 
     }
   }
 }
